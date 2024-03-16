@@ -7,7 +7,7 @@ Saya Sabila Rosad NIM 2106000 mengerjakan soal Latihan Praktikum 5 dalam mata ku
 ![image](https://cdn.discordapp.com/attachments/957671708058325032/1218602429440983110/image.png?ex=660842f3&is=65f5cdf3&hm=3371cb8ce2bcb993c1d56af176d497fc65f6c6e912faa0ab242670eef4a0de7f&)
 
 ## Alur Program
-- Insert
+- Add
   - User mengisi data
   - Klik button 'Add'
   - Update tabel
